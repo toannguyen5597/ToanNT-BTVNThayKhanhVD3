@@ -1,5 +1,19 @@
+.background-login {
+    background-image: url("hinh.jpg");
+}
 .bg-topica {
     background: #d89f46 !important
+}
+.color-topica {
+    color: #d89f46;
+}
+.text-topica-light {
+    color: #7f7f7f;
+    font-weight: 600;
+}
+.text-topica-dark {
+    color: #3d3d3d;
+    font-weight: 600;
 }
 .nav-tabs .nav-link.active {
     color: #d89f46 !important;
@@ -37,4 +51,23 @@
 }
 .navbar-subtitle {
     font-size: 0.95em;
+}
+.list-topica-item {
+    display: block;
+    padding: 0px;
+    margin-left: 5px;
+}
+.topica-select {
+    width: 100%;
+    padding: 0.75rem;
+    background-color: #f6f6f6;
+    border: 0px;
+    color: #acacac;
+    font-weight: 500;
+}
+.topica-select>option {
+    padding: 5rem;
+    background-color: #f6f6f6;
+    border: 0px;
+    color: black;
 }
