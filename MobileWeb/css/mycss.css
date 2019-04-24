@@ -1,0 +1,40 @@
+.bg-topica {
+    background: #d89f46 !important
+}
+.nav-tabs .nav-link.active {
+    color: #d89f46 !important;
+    border-bottom: 3px solid #cdcdcd !important;
+}
+.nav-tabs .nav-link {
+    color: #919191 !important;
+    font-weight: 500 !important;
+    border-top: 0 !important;
+    border-left: 0 !important;
+    border-right: 0 !important;
+    border-bottom: 3px solid #d89f46 !important;
+}
+#group .card {
+    box-shadow: 0px 0px 1px 1px  #cdcdcd !important;
+}
+.avatar {
+    margin-right: -10px;
+}
+.card-subtitle {
+    font-size: 0.75em;
+    color: #cdcdcd;
+}
+.card-text {
+    font-size: 0.75em;
+    color: #cdcdcd; 
+}
+.text-infor {
+    font-size: 0.85em;
+    color: #cdcdcd; 
+}
+.navbar-title {
+    font-size: 1em;
+    font-weight: 500;
+}
+.navbar-subtitle {
+    font-size: 0.95em;
+}
